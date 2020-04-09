@@ -1,46 +1,71 @@
-body,
-html {
-  width: 100%;
-  height: 100%;
+* {
+  box-sizing: border-box;
   margin: 0;
-  background-image: url("https://imgur.com/7s4OJI1");
-  background-size: cover;
-  background-position: center;
-  image-rendering: optimizeSpeed;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: -o-crisp-edges;
-  image-rendering: -webkit-optimize-contrast;
-  image-rendering: crisp-edges;
-  -ms-interpolation-mode: bicubic;
-  overflow: hidden;
+  padding: 0;
 }
 
-.duck {
-  position: absolute;
-  background-image: url(images/duckhunt.png);
-  background-position: -100px -160px;
-  width: 110px;
-  height: 115px;
-  /* GIVE THE LEFT AND TOP POSITION OF DUCK HAVE A TRANSITION EFFECT
-  ONLY NEEDED CHANGE IN THIS FILE!! */
-  transition: top 2s, left 2s;
-  transition-timing-function: linear;
-  background-repeat: no-repeat;
+body {
+  background-image: linear-gradient(#85ADFF, #4372D1);
 }
 
-.duck.right {
-  background-position: -200px -160px;
+.start-screen {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-around;
+  align-items: center;
 }
-.duck.right.flap {
-  background-position: -300px -160px;
+
+#start-img {
+  padding-left: -10px;
+  height: 200px;
 }
-.duck {
-  background-position: -100px -160px;
+/*MAKE SCREEN ANIMATE TO LOOK LIKE ITS GOING INTO THE OCEAN */
+
+.start-title {
+  color:#FFC33D;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 130px;
+  margin-bottom: -150px;
 }
-.duck.flap {
-  background-position: -430px -160px;
+
+.instructions-one {
+  color:#FFC33D;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 50px;
+  text-align: center;
 }
-.duck.shot {
-  background-position: center;
-  background-image: url(images/shot.png);
+
+.instructions-img1 {
+  height: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pre1-button {
+  background-color:#6A9BFF;
+  color:#FFC33D;
+  font-size: 40px;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 10px;
+}
+
+#animate {
+  position: relative;
+  width: 100px;
+  height: 50px;
+}
+
+.start-button {
+  background-color:#6A9BFF;
+  color:#FFC33D;
+  font-size: 40px;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 10px;
 }
