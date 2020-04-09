@@ -40,4 +40,7 @@ $(document).on("click", ".start-button", function() {
     $("#animate15").animate({
     left: "-1500px" }, 5000);
    }, 6000);
+   setTimeout(function() {
+     prompt("How many fish did you count?")
+   }, 17000)
 });
