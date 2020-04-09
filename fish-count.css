@@ -16,6 +16,13 @@ body {
   align-items: center;
 }
 
+.pre-level-one {
+  height: 100vh;
+}
+
+.level-one {
+  height: 100vh;
+}
 #start-img {
   padding-left: -10px;
   height: 200px;
