@@ -47,12 +47,22 @@ body {
   display: none;
 }
 
+.score-screen {
+  height: 100vh;
+  display: none;
+}
+
 .level-one {
   height: 100vh;
   display: none;
 }
 
 .level-two {
+  height: 100vh;
+  display: none;
+}
+
+.level-three {
   height: 100vh;
   display: none;
 }
@@ -89,6 +99,13 @@ body {
 }
 
 .instructions-three {
+  color:#FFC33D;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.final-score {
   color:#FFC33D;
   font-family: 'Orbitron', sans-serif;
   font-size: 50px;

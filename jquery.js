@@ -41,7 +41,7 @@ $(document).on("click", ".start-button", function() {
     left: "-1500px" }, 4000);
    }, 6000);
    setTimeout(function() {
-     prompt("How many fish did you count?")
+     let input1 = prompt("How many fish did you count?")
    }, 15000)
    setTimeout(function(){
     $(".level-one").hide();
@@ -92,7 +92,7 @@ $(document).on("click", ".start-button2", function() {
         left: "-1500px" }, 4000);
        }, 6000);
        setTimeout(function() {
-        prompt("How many fish did you count?")
+        let input2 = prompt("How many fish did you count?")
       }, 15000)
       setTimeout(function(){
         $(".level-two").hide();
@@ -143,6 +143,11 @@ $(document).on("click", ".start-button3", function() {
         left: "-1500px" }, 5000);
        }, 6000);
        setTimeout(function() {
-        prompt("How many fish did you count?")
+        let input3 = prompt("How many fish did you count?")
       }, 15000)
+      setTimeout(function(){
+        $(".level-three").hide();
+        $(".score-screen").show();
+      }, 15000);
 });
+
