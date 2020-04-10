@@ -101,6 +101,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
 }
 
 .instructions-img2 {
@@ -123,106 +124,106 @@ body {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 1300px;
-  margin-top: 150px;
+  margin-left: 500px;
+  margin-top: 20px;
 }
 
 #animate1 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 1000px;
 }
 
 #animate2 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate3 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate4 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate5 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate6 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate7 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate8 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 5000px;
 }
 
 #animate9 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate10 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate11 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate12 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate13 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate14 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 300px;
 }
 
 #animate15 {
@@ -237,14 +238,13 @@ body {
   width: 100px;
   height: 50px;
   margin-left: 1300px;
-  margin-top: 150px;
 }
 
 #animate17 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate18 {
@@ -258,84 +258,84 @@ body {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate20 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate21 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate22 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 900px;
 }
 
 #animate23 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate24 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 300px;
 }
 
 #animate25 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate26 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate27 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate28 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate29 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 900px;
 }
 
 #animate30 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate31 {
@@ -350,35 +350,34 @@ body {
   width: 100px;
   height: 50px;
   margin-left: 1300px;
-  margin-top: 150px;
 }
 
 #animate33 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 900px;
 }
 
 #animate34 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate35 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate36 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate37 {
@@ -392,35 +391,35 @@ body {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 #animate39 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 900px;
 }
 
 #animate40 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 #animate41 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 
 #animate42 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 300px;
 }
 
 #animate43 {
@@ -434,14 +433,14 @@ body {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #animate45 {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 900px;
 }
 
 #animate46 {
@@ -455,7 +454,7 @@ body {
   position: relative;
   width: 100px;
   height: 50px;
-  margin-left: 500px;
+  margin-left: 700px;
 }
 
 .start-button {
