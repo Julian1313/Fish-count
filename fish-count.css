@@ -15,7 +15,21 @@ body {
   justify-content: space-around;
   align-items: center;
 }
+
+.start-screen2 {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .pre-level-one {
+  height: 100vh;
+  display: none;
+}
+
+.pre-level-two {
   height: 100vh;
   display: none;
 }
@@ -24,11 +38,16 @@ body {
   height: 100vh;
   display: none;
 }
+
+.level-two {
+  height: 100vh;
+  display: none;
+}
+
 #start-img {
   padding-left: -10px;
   height: 200px;
 }
-/*MAKE SCREEN ANIMATE TO LOOK LIKE ITS GOING INTO THE OCEAN */
 
 .start-title {
   color:#FFC33D;
@@ -44,6 +63,13 @@ body {
   text-align: center;
 }
 
+.instructions-two {
+  color:#FFC33D;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
 .instructions-img1 {
   height: 200px;
   text-align: center;
@@ -52,14 +78,12 @@ body {
   margin-right: auto;
 }
 
-.pre1-button {
-  background-color:#6A9BFF;
-  color:#FFC33D;
-  font-size: 40px;
-  font-family: 'Orbitron', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  border-radius: 10px;
+.instructions-img2 {
+  height: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #animate {
@@ -67,6 +91,7 @@ body {
   width: 100px;
   height: 50px;
   margin-left: 1300px;
+  margin-top: 150px;
 }
 
 #animate1 {
@@ -174,7 +199,130 @@ body {
   margin-left: 500px;
 }
 
+#animate16 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 1300px;
+  margin-top: 150px;
+}
+
+#animate17 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate18 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate19 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate20 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate21 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate22 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate23 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate24 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate25 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate26 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate27 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate28 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate29 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate30 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
+#animate31 {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  margin-left: 500px;
+}
+
 .start-button {
+  background-color:#6A9BFF;
+  color:#FFC33D;
+  font-size: 40px;
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 10px;
+}
+
+.start-button2 {
   background-color:#6A9BFF;
   color:#FFC33D;
   font-size: 40px;
